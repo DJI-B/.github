@@ -4,9 +4,14 @@
 
 <p align="center">
   <a href="https://www.papertracker.top"><img src="https://img.shields.io/badge/Website-papertracker.top-4c4c4c?style=for-the-badge" alt="Website"></a>
-  <a href="https://www.youtube.com/@Paper_Tracker"><img src="https://img.shields.io/badge/YouTube-Paper__Tracker-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://x.com/Tracker_Paper"><img src="https://img.shields.io/badge/X-Tracker__Paper-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://space.bilibili.com/494782197"><img src="https://img.shields.io/badge/Bilibili-Paper__Tracker-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@Paper_Tracker"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="28" height="28"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Tracker_Paper"><img src="https://cdn.simpleicons.org/x/111111" alt="X" width="28" height="28"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://space.bilibili.com/494782197"><img src="https://cdn.simpleicons.org/bilibili/00A1D6" alt="Bilibili" width="28" height="28"></a>
 </p>
 
 Paper_Tracker is a virtual reality technology company founded in 2025 and headquartered in Shenzhen, China. We focus on VR research, development, and accessory innovation for next-generation immersive experiences.
