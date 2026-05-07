@@ -25,12 +25,6 @@ Paper_Tracker was founded by a technical R&D team with experience across mechani
 
 We combine product engineering, lean production workflows, and continuous technical exploration to deliver VR products that balance performance, reliability, and value.
 
-## Open Collaboration
-
-As an active contributor to the VR ecosystem, Paper_Tracker supports open collaboration, technical exchange, and partnerships with the global VR technology community.
-
-We believe shared knowledge and community-driven innovation are essential to advancing the future of virtual reality.
-
 ## Contact
 
 **Company Address**  
