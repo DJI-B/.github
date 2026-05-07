@@ -1,4 +1,6 @@
-# Paper_Tracker
+<p align="center">
+  <img src="./assets/paper_tracker_logo.svg" alt="Paper_Tracker" width="520">
+</p>
 
 Paper_Tracker is a virtual reality technology company founded in 2025 and headquartered in Shenzhen, China. We focus on VR research, development, and accessory innovation for next-generation immersive experiences.
 
